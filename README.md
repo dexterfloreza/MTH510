@@ -1,5 +1,6 @@
 # MTH510
 My work for MTH510 - Numerical Analysis. 
+
 Course Description:
 Review of Taylor's formula, truncation error and round off error. Solutions of Non linear Equations in one variable. Linear Equations. LU-decomposition. Eigenvalues and eigenvectors. Jacobi, Gauss-Seidel methods. Interpolation and curve fitting. Numerical integration. Numerical solution of ordinary differential equations. (Initial value problems.)
 
