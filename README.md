@@ -1,4 +1,4 @@
-# MTH510
+# MTH510 - Numerical Analysis
 My work for MTH510 - Numerical Analysis. 
 
 Course Description:
